@@ -12,6 +12,8 @@ My goal is to discover a new profession. I can study a lot. I have a desire to l
 * Github
 * Virtual Studio Code
 ### Code examples:
+This code does not execute properly. Try to figure out why.
+
 ```
 function multiply(a, b){
   return a * b
