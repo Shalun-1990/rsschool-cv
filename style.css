@@ -13,7 +13,8 @@
 }
 
 header{
- border: 1px solid red;
+ border: 1px solid rgb(196, 199, 33);
+ background-color:burlywood;
 }
 
 main{
@@ -35,4 +36,30 @@ body{
   .container{
     max-width: 1440px;
     margin: 0 auto;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav-link{
+    padding: 0px 20px;
+    line-height: 50px;
+    transition: 1.5s;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  a{
+    text-decoration: none;
+    color:rgb(66, 34, 11);
+    font-size: 16px;
+  }
+  a:hover{
+    background-color: #786b59;
+    color: #ffe;
   }
