@@ -9,7 +9,7 @@
 - **GitHub** [https://github.com/Shalun-1990](https://github.com/Shalun-1990)
 - **Tel:** +375297494281
 
-### About muself:
+### About myself:
 
 My goal is to discover a new profession. I can study a lot. I have a desire to learn something new.
 
